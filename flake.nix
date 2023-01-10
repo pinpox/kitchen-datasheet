@@ -33,6 +33,27 @@
     in
     {
 
+      apps = forAllSystems
+        (system:
+          let
+            pkgs = nixpkgsFor.${system};
+            pkgs-pinpox = nixpkgsPinpoxFor.${system};
+            servescript = pkgs.writeShellScriptBin "serve" ''
+              export CMD_DRAW_HEADTABLE="${self.packages.${system}.generate-headtable}/bin/generate-headtable"
+              export CMD_DRAW_NUTRIENTS="${self.packages.${system}.generate-nutrients}/bin/generate-nutrients"
+              export PATH=$PATH:${pkgs-pinpox.mdbook-cmdrun}/bin
+              echo "Using $CMD_DRAW_HEADTABLE and $CMD_DRAW_NUTRIENTS as generators"
+              ${pkgs.mdbook}/bin/mdbook serve --open
+            '';
+          in
+          {
+            default = {
+              type = "app";
+              program = "${servescript}/bin/serve";
+            };
+          }
+        );
+
       packages = forAllSystems
         (system:
           let
