@@ -35,7 +35,7 @@ jobs:
           name: kitchen-datasheet
           authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
       - name: Build book
-        run: nix build
+        run: nix build -L -vv
       - name: Setup Pages
         uses: actions/configure-pages@v2
         # workaround for https://github.com/actions/deploy-pages/issues/58
