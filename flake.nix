@@ -1,64 +1,12 @@
-# {
-#   description = "Kitchen Datasheet website";
-
-#   inputs = {
-#     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
-#     flake-utils.url = "github:numtide/flake-utils";
-
-#     flake-compat = {
-#       url = "github:edolstra/flake-compat";
-#       flake = false;
-#     };
-#   };
-
-#   outputs = { self, nixpkgs, flake-utils, ... }:
-
-#     flake-utils.lib.eachDefaultSystem (system:
-#       let
-#         pkgs = nixpkgs.legacyPackages.${system};
-#       in
-#       rec {
-
-#         packages = flake-utils.lib.flattenTree rec {
-
-#           blog = pkgs.stdenv.mkDerivation rec {
-#             pname = "pinpox-blog";
-#             version = "1.0";
-
-#             src = self;
-#             buildPhase = ''
-#               ${pkgs.zola}/bin/zola build
-#             '';
-
-#             installPhase = ''
-#               runHook preInstall
-#               cp -r public $out
-#               runHook postInstall
-#             '';
-
-#             meta = with pkgs.lib; {
-#               homepage = "TODO";
-#               description = "TODO";
-#               license = licenses.mit;
-#               maintainers = [ maintainers.pinpox ];
-#             };
-#           };
-
-#         };
-#         defaultPackage = packages.blog;
-#       });
-# }
-
-
 {
-  description = "A simple Go package";
+  description = "Kitchen Datasheet website";
 
-  # Nixpkgs / NixOS version to use.
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
+
+    # TODO remove when PR reaches nixos-unstable
+    # https://github.com/NixOS/nixpkgs/pull/210014
     nixpkgs-pinpox.url = "github:pinpox/nixpkgs/mdbook-cmdrun";
-    # mdbook-cmdrun.url = "github:FauconFan/mdbook-cmdrun";
-    # mdbook-cmdrun.flake = false;
   };
 
 
@@ -85,7 +33,6 @@
     in
     {
 
-      # Provide some binary packages for selected system types.
       packages = forAllSystems
         (system:
           let
@@ -101,7 +48,10 @@
 
               name = "book";
               src = ./.;
-              buildPhase = '' '';
+              buildPhase = null;
+
+              CMD_DRAW_HEADTABLE = "${self.packages.${system}.generate-headtable}/bin/generate-headtable";
+              CMD_DRAW_NUTRIENTS = "${self.packages.${system}.generate-nutrients}/bin/generate-nutrients";
 
               installPhase = ''
                 runHook preInstall
@@ -120,30 +70,21 @@
 
             };
 
-            go-hello = pkgs.buildGoModule {
-              pname = "go-hello";
+            generate-headtable = pkgs.buildGoModule {
+              pname = "generate-headtable";
               inherit version;
-              # In 'nix develop', we don't need a copy of the source tree
-              # in the Nix store.
-              src = ./.;
+              src = ./helper-tools/generate-headtable;
+              vendorSha256 = "sha256-pQpattmS9VmO3ZIQUFn66az8GSmB4IvYhTTCFn6SUmo=";
+            };
 
-              # This hash locks the dependencies of this package. It is
-              # necessary because of how Go requires network access to resolve
-              # VCS.  See https://www.tweag.io/blog/2021-03-04-gomod2nix/ for
-              # details. Normally one can build with a fake sha256 and rely on native Go
-              # mechanisms to tell you what the hash should be or determine what
-              # it should be "out-of-band" with other tooling (eg. gomod2nix).
-              # To begin with it is recommended to set this, but one must
-              # remeber to bump this hash when your dependencies change.
-              #vendorSha256 = pkgs.lib.fakeSha256;
-
+            generate-nutrients = pkgs.buildGoModule {
+              pname = "generate-nutrients";
+              inherit version;
+              src = ./helper-tools/generate-nutrients;
               vendorSha256 = "sha256-pQpattmS9VmO3ZIQUFn66az8GSmB4IvYhTTCFn6SUmo=";
             };
           });
 
-      # The default package for 'nix build'. This makes sense if the
-      # flake provides only one package or there is a clear "main"
-      # package.
       defaultPackage = forAllSystems (system: self.packages.${system}.book);
     };
 }
