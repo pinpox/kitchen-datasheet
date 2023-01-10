@@ -69,6 +69,6 @@
 - Kohlenhydrate 11,21g
 - Eiweiß  4,39
 
-![tomatensuppe](./tomatensuppe_pie.svg)
-![tomatensuppe](./tomatensuppe.svg)
+![tomatensuppe](tomatensuppe/tomatensuppe_pie.svg)
+![tomatensuppe](tomatensuppe/tomatensuppe.svg)
 
