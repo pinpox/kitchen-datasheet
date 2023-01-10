@@ -1,0 +1,43 @@
+{
+  "nodes": {
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1673226411,
+        "narHash": "sha256-b6cGb5Ln7Zy80YO66+cbTyGdjZKtkoqB/iIIhDX9gRA=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "aa1d74709f5dac623adb4d48fdfb27cc2c92a4d4",
+        "type": "github"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "ref": "nixos-unstable",
+        "type": "indirect"
+      }
+    },
+    "nixpkgs-pinpox": {
+      "locked": {
+        "lastModified": 1673346438,
+        "narHash": "sha256-RERSlVrvb1AuF27ATeGk/PKECL+xSovbNEdmCGD/AEU=",
+        "owner": "pinpox",
+        "repo": "nixpkgs",
+        "rev": "dad96d3c91f4b9594ed1e62090c6db4593a20525",
+        "type": "github"
+      },
+      "original": {
+        "owner": "pinpox",
+        "ref": "mdbook-cmdrun",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "nixpkgs": "nixpkgs",
+        "nixpkgs-pinpox": "nixpkgs-pinpox"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
