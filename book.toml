@@ -1,0 +1,16 @@
+[book]
+authors = ["Pablo Ovelleiro Corral"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Kitchen's Datasheet"
+
+
+[preprocessor.cmdrun]
+
+# [preprocessor.headtable]
+# command = "python headtable.py"
+
+
+# [preprocessor.nutrition]
+# command = "python headtable.py"

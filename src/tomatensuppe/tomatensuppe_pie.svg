@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="497.491mm"
+   height="225.1463mm"
+   viewBox="0 0 497.491 225.1463"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="tomatensuppe_bar.svg"
+   inkscape:export-filename="tomatensuppe.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview50532"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.3179329"
+     inkscape:cx="-138.39398"
+     inkscape:cy="728.14106"
+     inkscape:window-width="2534"
+     inkscape:window-height="1345"
+     inkscape:window-x="1930"
+     inkscape:window-y="10"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid520"
+       spacingx="1.3229167"
+       spacingy="1.3229167"
+       empspacing="10"
+       empcolor="#0099e5"
+       empopacity="0.38039216" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Chart-Layer: Fett:4.98,Kohlenhydrate:11.21,Eiweiß:4.39"
+     id="g20261"
+     transform="translate(-288.10848,-177.24997)">
+    <circle
+       cx="388.60849"
+       cy="277.74997"
+       r="100"
+       style="fill:#f9f9f9;stroke:#ececec"
+       id="circle20241" />
+    <path
+       d="m 487.387,293.331 22.7191,3.58372"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20243" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="512.08179"
+       y="304.89337"
+       id="text20245">Fett (4.98%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="0"
+       sodipodi:end="0.31290256"
+       d="m 488.60849,277.74997 a 100,100 0 0 1 -4.85559,30.78215 l -95.14441,-30.78215 z"
+       style="fill:#222222;fill-opacity:1;stroke:none"
+       id="path20247"
+       sodipodi:arc-type="slice" />
+    <path
+       d="m 467.296,339.462 18.098,14.1937"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20249" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="486.96732"
+       y="362.5564"
+       id="text20251">Kohlenhydrate (11.21%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="0.31290256"
+       sodipodi:end="1.0172475"
+       d="m 483.7529,308.53212 a 100,100 0 0 1 -42.57347,54.28427 l -52.57094,-85.06642 z"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="path20253"
+       sodipodi:arc-type="slice" />
+    <path
+       d="m 428.985,369.236 9.28669,21.0418"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20255" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="439.07962"
+       y="399.77426"
+       id="text20257">Eiweiß (4.39%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="1.0172475"
+       sodipodi:end="1.2930793"
+       d="m 441.17943,362.81639 a 100,100 0 0 1 -25.15485,11.10196 l -27.41609,-96.16838 z"
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="path20259"
+       sodipodi:arc-type="slice" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Chart-Layer: Fett:4.98,Kohlenhydrate:11.21,Eiweiß:4.39"
+     id="g20513"
+     transform="translate(-288.10848,-177.24997)">
+    <circle
+       cx="388.60849"
+       cy="277.74997"
+       r="100"
+       style="fill:#f9f9f9;stroke:#ececec"
+       id="circle20493" />
+    <path
+       d="m 487.387,293.331 22.7191,3.58372"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20495" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="512.08179"
+       y="304.89337"
+       id="text20497">Fett (4.98%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="0"
+       sodipodi:end="0.31290256"
+       d="m 488.60849,277.74997 a 100,100 0 0 1 -4.85559,30.78215 l -95.14441,-30.78215 z"
+       style="fill:#222222;fill-opacity:1;stroke:none"
+       id="path20499"
+       sodipodi:arc-type="slice" />
+    <path
+       d="m 467.296,339.462 18.098,14.1937"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20501" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="486.96732"
+       y="362.5564"
+       id="text20503">Kohlenhydrate (11.21%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="0.31290256"
+       sodipodi:end="1.0172475"
+       d="m 483.7529,308.53212 a 100,100 0 0 1 -42.57347,54.28427 l -52.57094,-85.06642 z"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="path20505"
+       sodipodi:arc-type="slice" />
+    <path
+       d="m 428.985,369.236 9.28669,21.0418"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt"
+       id="path20507" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23px;font-family:'Berkeley Mono';-inkscape-font-specification:'Bitstream Charter';text-align:start;text-anchor:start;fill:#000000"
+       x="439.07962"
+       y="399.77426"
+       id="text20509">Eiweiß (4.39%)</text>
+    <path
+       sodipodi:cx="388.60849"
+       sodipodi:cy="277.74997"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       sodipodi:type="arc"
+       sodipodi:start="1.0172475"
+       sodipodi:end="1.2930793"
+       d="m 441.17943,362.81639 a 100,100 0 0 1 -25.15485,11.10196 l -27.41609,-96.16838 z"
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="path20511"
+       sodipodi:arc-type="slice" />
+  </g>
+</svg>

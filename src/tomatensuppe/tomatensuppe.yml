@@ -1,0 +1,21 @@
+name: "Tomaten-Paprika Suppe"
+ingredients:
+  - { name: "Gelbe Paprika", amount: "1"}
+  - { name: "Gemüsebrühe", amount: "4g"}
+  - { name: "Ciabatta", amount: "1" }
+  - { name: "Kirschtomatenpolpa", amount: "100ml"}
+  - { name: "Chiliflocken", amount: "2g"}
+  - { name: "Basilikum", amount: "10g"}
+  - { name: "Hartkäse", amount: "20g"}
+  - { name: "Crème fraîche", amount: "75g" }
+  - { name: "Mozarella", amount: "1" }
+  - { name: "Zucker" }
+  - { name: "Salz & Pfeffer" }
+nutrition:
+ - kcal: 110
+ - fat: 4.98
+ - cabohydrates: 11.21
+ - protein: 4.39
+time: 30
+complexity: 2
+origin: italy
