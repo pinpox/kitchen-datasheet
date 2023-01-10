@@ -60,15 +60,10 @@
 	</tbody>
 </table>
 
-<!-- cmdrun "${CMD_DRAW_HEADTABLE:=echo}" ./tomatensuppe.yml -->
-<!-- cmdrun "${CMD_DRAW_NUTRIENTS:=echo}" ./tomatensuppe.yml -->
+<!-- cmdrun "${CMD_DRAW_HEADTABLE:=echo}" ./data.yml -->
+<!-- cmdrun "${CMD_DRAW_NUTRIENTS:=echo}" ./data.yml -->
 
-## Durchschnittliche Nährwärte pro 100g
-- Brennwert 461kJ/110kcal
-- Fett 4,98g
-- Kohlenhydrate 11,21g
-- Eiweiß  4,39
+<!-- ![tomatensuppe](tomatensuppe/tomatensuppe_pie.svg) -->
 
-![tomatensuppe](tomatensuppe/tomatensuppe_pie.svg)
-![tomatensuppe](tomatensuppe/tomatensuppe.svg)
+![tomatensuppe](tomatensuppe/chart.svg)
 

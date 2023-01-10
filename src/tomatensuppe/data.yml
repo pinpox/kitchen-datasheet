@@ -12,10 +12,10 @@ ingredients:
   - { name: "Zucker" }
   - { name: "Salz & Pfeffer" }
 nutrition:
- - kcal: 110
- - fat: 4.98
- - cabohydrates: 11.21
- - protein: 4.39
+ kcal: 110
+ fat: 4.98
+ carbohydrates: 11.21
+ protein: 4.39
 time: 30
 complexity: 2
 origin: italy

@@ -1,3 +1,3 @@
 # Summary
 
-- [Tomatensuppe](./tomatensuppe/tomatensuppe.md)
+- [Tomaten-Paprika Suppe](./tomatensuppe/main.md)
