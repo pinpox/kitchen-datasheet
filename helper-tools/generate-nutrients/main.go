@@ -56,11 +56,11 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Printf(`## Durchschnittliche Nährwärte pro 100g
-	- Brennwert: %vkcal
-	- Fett: %vg
-	- Kohlenhydrate: %vg
-	- Eiweiß: %vg`,
+	fmt.Printf(`
+- Brennwert: %vkcal
+- Fett: %vg
+- Kohlenhydrate: %vg
+- Eiweiß: %vg`,
 		recipe.Nutrition.Kcal,
 		recipe.Nutrition.Fat,
 		recipe.Nutrition.Carbohydrates,
