@@ -1,8 +1,11 @@
 
 <!-- cmdrun "${CMD_DRAW_HEADTABLE:=echo}" ./data.yml -->
+
+## Duchschnittliche Nährwerte pro 100g 
+
 <!-- cmdrun "${CMD_DRAW_NUTRIENTS:=echo}" ./data.yml -->
 
-<!-- ![tomatensuppe](tomatensuppe_pie.svg) -->
+## Herstellung
 
 ![tomatensuppe](chart.svg)
 

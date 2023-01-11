@@ -14,3 +14,9 @@ title = "Kitchen's Datasheet"
 
 # [preprocessor.nutrition]
 # command = "python headtable.py"
+
+[output.html]
+theme = "theme"
+default-theme = "light"
+preferred-dark-theme = "light"
+git-repository-url = "https://github.com/pinpox/kitchen-datasheet"
