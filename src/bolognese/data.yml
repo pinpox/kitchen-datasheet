@@ -1,0 +1,22 @@
+name: "Spaghetti Bolognese"
+ingredients:
+  - { name: "Butter", amount: "125g"}
+  - { name: "Olivenöl", amount: "20ml"}
+  - { name: "Zwiebeln", amount: "2" }
+  - { name: "Möhren", amount: "3"}
+  - { name: "Sellerie", amount: "1"}
+  - { name: "Hack", amount: "1kg"}
+  - { name: "Weißwein", amount: "150ml"}
+  - { name: "Milch", amount: "200ml" }
+  - { name: "Tomaten", amount: "1 Dose" }
+  - { name: "Peperocini", amount: "3" }
+  - { name: "Knoblauchzehen", amount: "3" }
+  - { name: "Salz & Pfeffer" }
+nutrition:
+ kcal: 113
+ fat: 6.46
+ carbohydrates: 8.41
+ protein: 6.54
+time: 180
+complexity: 3
+origin: "Bologna, Italien"

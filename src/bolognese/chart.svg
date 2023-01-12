@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="576.5mm"
+   height="491.5mm"
+   viewBox="0 0 576.5 491.5"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker39995"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill-rule:evenodd;stroke:none"
+         id="path39993" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker39438"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill-rule:evenodd;stroke:none"
+         id="path39436" />
+    </marker>
+    <pattern
+       xlink:href="#pattern2346"
+       id="pattern3577"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,518.28308,874.50016)" />
+    <pattern
+       xlink:href="#pattern2380"
+       id="pattern3477"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,428.28309,799.50017)" />
+    <pattern
+       xlink:href="#pattern2312"
+       id="pattern3408"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,468.28306,919.50014)" />
+    <pattern
+       xlink:href="#pattern2278"
+       id="pattern3309"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,428.28306,984.50014)" />
+    <pattern
+       xlink:href="#pattern2244"
+       id="pattern3141"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,253.28305,984.50013)" />
+    <pattern
+       xlink:href="#pattern2210"
+       id="pattern3011"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,303.28305,924.50013)" />
+    <pattern
+       xlink:href="#pattern2176"
+       id="pattern-dots"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,363.28304,249.50012)" />
+    <pattern
+       xlink:href="#pattern2107"
+       id="pattern2648"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,103.28302,834.5001)" />
+    <pattern
+       xlink:href="#pattern2141"
+       id="pattern2518"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,153.28299,799.50011)" />
+    <pattern
+       xlink:href="#pattern2380"
+       id="pattern2414"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,638.2831,904.50018)" />
+    <pattern
+       xlink:href="#pattern2346"
+       id="pattern2380"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,513.28307,799.50015)" />
+    <pattern
+       xlink:href="#pattern2312"
+       id="pattern2346"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,518.28306,859.50014)" />
+    <pattern
+       xlink:href="#pattern2278"
+       id="pattern2312"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,493.28305,929.50013)" />
+    <pattern
+       xlink:href="#pattern2244"
+       id="pattern2278"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,458.28304,984.50012)" />
+    <pattern
+       xlink:href="#pattern2210"
+       id="pattern2244"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,298.28303,989.50011)" />
+    <pattern
+       xlink:href="#pattern2176"
+       id="pattern2210"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,318.28302,914.5001)" />
+    <pattern
+       xlink:href="#pattern2141"
+       id="pattern2176"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,293.28301,824.50009)" />
+    <pattern
+       xlink:href="#pattern2107"
+       id="pattern2141"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,138.28302,764.50008)" />
+    <pattern
+       xlink:href="#pattern1565"
+       id="pattern2107"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,33.283025,834.50007)" />
+    <pattern
+       xlink:href="#pattern33522"
+       id="pattern1565"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,153.28303,909.50006)" />
+    <rect
+       x="787.17169"
+       y="3839.0039"
+       width="105.35532"
+       height="497.81848"
+       id="rect1402" />
+    <rect
+       x="577.617"
+       y="2178.054"
+       width="688.14496"
+       height="304.32193"
+       id="rect1364" />
+    <pattern
+       xlink:href="#pattern33488"
+       id="pattern33522"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,305,704.99998)" />
+    <pattern
+       xlink:href="#pattern33228"
+       id="pattern33488"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,310,639.99998)" />
+    <pattern
+       xlink:href="#pattern33194"
+       id="pattern33228"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,310,509.99998)" />
+    <pattern
+       xlink:href="#pattern7568"
+       id="pattern33194"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,660,569.99998)" />
+    <pattern
+       xlink:href="#pattern6731"
+       id="pattern7568"
+       patternTransform="matrix(0,-0.09450405,0.09450405,0,660,469.99998)" />
+    <marker
+       style="overflow:visible"
+       id="marker2321"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill-rule:evenodd;stroke:none"
+         id="path2319" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="30.23622"
+       height="30.23622"
+       patternTransform="translate(3005.9157,1776.4755)"
+       id="pattern6731">
+      <g
+         id="g6729"
+         transform="matrix(3.7795276,0,0,3.7795276,-3005.9157,-1776.4755)">
+        <rect
+           style="fill:#ffffff;stroke:none;stroke-width:1.1547;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="rect6714"
+           width="8"
+           height="8"
+           x="795.31519"
+           y="470.02582" />
+        <ellipse
+           style="fill:#000000;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="circle6716"
+           cx="796.31519"
+           cy="471.02582"
+           rx="0.99999923"
+           ry="0.99999964" />
+        <ellipse
+           style="fill:#000000;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="circle6718"
+           cx="800.31519"
+           cy="471.02582"
+           rx="0.99999923"
+           ry="0.99999964" />
+        <ellipse
+           style="fill:#000000;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="circle6720"
+           cx="798.31519"
+           cy="475.02582"
+           rx="0.99999923"
+           ry="0.99999964" />
+        <ellipse
+           style="fill:#000000;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+           id="circle6722"
+           cx="802.31519"
+           cy="475.02582"
+           rx="0.99999923"
+           ry="0.99999964" />
+      </g>
+    </pattern>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-356.78303,-238.00001)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:10.6261;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="rect2487"
+       width="89.373878"
+       height="29.373922"
+       x="553.59607"
+       y="679.81305"
+       ry="14.686961" />
+    <g
+       id="g3991"
+       transform="translate(-154.99999,-544.99999)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2344"
+         width="100"
+         height="50"
+         x="518.28302"
+         y="874.5"
+         ry="0" />
+      <g
+         id="g3984">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect754"
+           width="100"
+           height="50"
+           x="513.28302"
+           y="864.5" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+           x="538.27997"
+           y="893.29938"
+           id="text648"><tspan
+             id="tspan646"
+             style="stroke-width:0.264583"
+             x="538.27997"
+             y="893.29938">Weißwein</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3109"
+       transform="translate(60,-515)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2208"
+         width="100"
+         height="50"
+         x="303.28302"
+         y="924.5"
+         ry="0" />
+      <g
+         id="g1505"
+         transform="translate(-5.21697,-3.3025413)">
+        <g
+           id="g1457">
+          <rect
+             style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+             id="rect746"
+             width="100"
+             height="50"
+             x="303.5"
+             y="917.80255" />
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+             x="337.81024"
+             y="946.60193"
+             id="text652"><tspan
+               id="tspan650"
+               style="stroke-width:0.264583"
+               x="337.81024"
+               y="946.60193">Milch</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3917"
+       transform="translate(579.99999,-575)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2242"
+         width="100"
+         height="50"
+         x="253.28304"
+         y="984.5"
+         ry="0" />
+      <g
+         id="g3909">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect744"
+           width="100"
+           height="50"
+           x="248.28304"
+           y="974.5" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+           x="270.4278"
+           y="995.60004"
+           id="text684"><tspan
+             id="tspan682"
+             style="stroke-width:0.264583"
+             x="270.4278"
+             y="995.60004">Zwiebeln</tspan><tspan
+             style="stroke-width:0.264583"
+             x="270.4278"
+             y="1008.8292"
+             id="tspan686">(gehackt)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3445"
+       transform="translate(-105,-430)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2310"
+         width="100"
+         height="50"
+         x="468.28302"
+         y="919.5"
+         ry="0" />
+      <g
+         id="g1493"
+         transform="translate(-3.2400413,-3.2823386)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect756"
+           width="100"
+           height="50"
+           x="466.52307"
+           y="912.78235" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+           x="494.40396"
+           y="941.32245"
+           id="text656"><tspan
+             id="tspan654"
+             style="stroke-width:0.264583"
+             x="494.40396"
+             y="941.32245">Tomaten</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3545"
+       transform="translate(-64.99999,-199.99999)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2378"
+         width="100"
+         height="50"
+         x="428.28302"
+         y="799.5"
+         ry="0" />
+      <g
+         id="g1468"
+         transform="translate(-56.121725,-9.0535789)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect750"
+           width="100"
+           height="50"
+           x="479.40475"
+           y="798.55359" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="529.40479"
+           y="820.18811"
+           id="text660"><tspan
+             id="tspan658"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="529.40479"
+             y="820.18811">Knoblauch</tspan><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="529.40479"
+             y="833.41724"
+             id="tspan662">(in Scheinben)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2616"
+       transform="translate(210,-120)">
+      <rect
+         style="fill:url(#pattern2518);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2139"
+         width="100"
+         height="50"
+         x="153.28304"
+         y="799.5"
+         ry="0" />
+      <g
+         id="g1440"
+         transform="translate(-10.703329,3.7567239)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect1189"
+           width="100"
+           height="50"
+           x="158.98636"
+           y="785.74329" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="207.83278"
+           y="805.52039"
+           id="text666"><tspan
+             id="tspan664"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="207.83278"
+             y="805.52039">Peperocini</tspan><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="207.83278"
+             y="818.74951"
+             id="tspan668">(zestampft)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2746"
+       transform="translate(730,-585)">
+      <rect
+         style="fill:url(#pattern2648);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2105"
+         width="100"
+         height="50"
+         x="103.28303"
+         y="834.5"
+         ry="0" />
+      <g
+         id="g1446"
+         transform="translate(-83.830892,-18.399892)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect740"
+           width="100"
+           height="50"
+           x="182.11392"
+           y="842.8999" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="231.39426"
+           y="863.99994"
+           id="text672"><tspan
+             id="tspan670"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="231.39426"
+             y="863.99994">Staudensellerie</tspan><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="231.39426"
+             y="877.22906"
+             id="tspan674">(gehackt)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g2516"
+       transform="translate(679.99999,-580)">
+      <rect
+         style="fill:url(#pattern1565);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect1563"
+         width="100"
+         height="50"
+         x="153.28304"
+         y="909.5"
+         ry="0" />
+      <g
+         id="g1452"
+         transform="translate(-17.255163,-18.228506)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect742"
+           width="100"
+           height="50"
+           x="165.53819"
+           y="917.72852" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="215.53819"
+           y="938.89734"
+           id="text678"><tspan
+             id="tspan676"
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="215.53819"
+             y="938.89734">Möhren</tspan><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="215.53819"
+             y="952.12646"
+             id="tspan680">(gehackt)</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3376"
+       transform="translate(405.00001,-424.99999)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2276"
+         width="100"
+         height="50"
+         x="428.28302"
+         y="984.5"
+         ry="0" />
+      <g
+         id="g1488"
+         transform="translate(-8.7086692,-0.2008567)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect758"
+           width="100"
+           height="50"
+           x="431.9917"
+           y="974.70087" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+           x="456.82458"
+           y="1003.5002"
+           id="text690"><tspan
+             id="tspan688"
+             style="stroke-width:0.264583"
+             x="456.82458"
+             y="1003.5002">Meersalz</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3741"
+       transform="translate(195.00001,-264.99999)">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2412"
+         width="100"
+         height="50"
+         x="638.28302"
+         y="904.5"
+         ry="0" />
+      <g
+         id="g1561"
+         transform="translate(0.75782248,0.33875512)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect752"
+           width="100"
+           height="50"
+           x="632.52521"
+           y="894.16125" />
+        <g
+           id="g1474">
+          <text
+             xml:space="preserve"
+             style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+             x="681.80554"
+             y="908.64673"
+             id="text694"><tspan
+               id="tspan692"
+               style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+               x="681.80554"
+               y="908.64673">Schwarzer</tspan><tspan
+               style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+               x="681.80554"
+               y="921.87585"
+               id="tspan1398">Pfeffer</tspan><tspan
+               style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+               x="681.80554"
+               y="935.10498"
+               id="tspan696">(gemahlen)</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1510"
+       transform="translate(274.72924,-861.39293)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect768"
+         width="100"
+         height="50"
+         x="223.55379"
+         y="1100.8929" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+         x="226.05591"
+         y="1129.8018"
+         id="text700"><tspan
+           id="tspan698"
+           style="stroke-width:0.264583"
+           x="226.05591"
+           y="1129.8018">Scharf anbraten</tspan></text>
+    </g>
+    <g
+       id="g1516"
+       transform="translate(281.24483,-844.23645)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect770"
+         width="100"
+         height="50"
+         x="217.03819"
+         y="1163.7365" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="267.21811"
+         y="1185.9901"
+         id="text704"><tspan
+           id="tspan702"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="267.21811"
+           y="1185.9901">Ablöschen,</tspan><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="267.21811"
+           y="1199.2192"
+           id="tspan706">vom Boden lösen</tspan></text>
+    </g>
+    <g
+       id="g1521"
+       transform="translate(45.672154,-744.67822)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect766"
+         width="100"
+         height="50"
+         x="452.61087"
+         y="1144.1782" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+         x="474.30582"
+         y="1173.0923"
+         id="text710"><tspan
+           id="tspan708"
+           style="stroke-width:0.264583"
+           x="474.30582"
+           y="1173.0923">Aufkochen</tspan></text>
+    </g>
+    <g
+       id="g1542"
+       transform="translate(64.715314,-851.57348)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect772"
+         width="100"
+         height="50"
+         x="433.56772"
+         y="1331.0735" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+         x="454.87637"
+         y="1359.8729"
+         id="text714"><tspan
+           id="tspan712"
+           style="stroke-width:0.264583"
+           x="454.87637"
+           y="1359.8729">Einkochen</tspan></text>
+    </g>
+    <g
+       id="g1537"
+       transform="translate(36.583173,-654.1223)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect774"
+         width="100"
+         height="50"
+         x="511.69986"
+         y="1243.6223" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+         x="533.41595"
+         y="1271.0829"
+         id="text718"><tspan
+           id="tspan716"
+           style="stroke-width:0.264583"
+           x="533.41595"
+           y="1271.0829">Vermengen</tspan></text>
+    </g>
+    <g
+       id="g1527"
+       transform="translate(139.64723,-775.92431)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect760"
+         width="100"
+         height="50"
+         x="548.6358"
+         y="1095.4243" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="597.9267"
+         y="1116.2969"
+         id="text722"><tspan
+           id="tspan720"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="597.9267"
+           y="1116.2969">In Butter</tspan><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="597.9267"
+           y="1129.526"
+           id="tspan724">garen</tspan></text>
+    </g>
+    <g
+       id="g1532"
+       transform="translate(84.00512,-519.17823)">
+      <g
+         id="g38264"
+         transform="translate(-0.99998307,-61.999983)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect764"
+           width="100"
+           height="50"
+           x="605.27789"
+           y="1170.6782" />
+        <text
+           xml:space="preserve"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';stroke-width:0.264583"
+           x="620.62286"
+           y="1199.4777"
+           id="text728"><tspan
+             id="tspan726"
+             style="stroke-width:0.264583"
+             x="620.62286"
+             y="1199.4777">Abschmecken</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1548"
+       transform="translate(-0.83794168,-588.12792)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect776"
+         width="100"
+         height="50"
+         x="689.12097"
+         y="1257.6279" />
+      <text
+         xml:space="preserve"
+         style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="739.12097"
+         y="1279.3312"
+         id="text736"><tspan
+           id="tspan734"
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="739.12097"
+           y="1279.3312">Köcheln</tspan><tspan
+           style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="739.12097"
+           y="1292.5603"
+           id="tspan738">(2-5h)</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,293.28302,197.5)"
+       id="text1362"
+       style="font-size:40px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect1364);display:inline" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,293.28302,197.5)"
+       id="text1400"
+       style="font-size:40px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;shape-inside:url(#rect1402);display:inline" />
+    <g
+       id="g493">
+      <rect
+         style="fill:url(#pattern-dots);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+         id="rect2174"
+         width="100"
+         height="50"
+         x="363.28302"
+         y="249.50002"
+         ry="0" />
+      <g
+         id="g1462"
+         transform="translate(18.194926,-610.21654)">
+        <rect
+           style="fill:#ffffff;stroke:#000000;stroke-width:3;stroke-linecap:round;paint-order:stroke fill markers"
+           id="rect748"
+           width="100"
+           height="50"
+           x="340.0881"
+           y="849.71655" />
+        <text
+           xml:space="preserve"
+           id="text1195"
+           style="font-size:10.5833px;line-height:1.25;font-family:'Berkeley Mono';-inkscape-font-specification:'Berkeley Mono';white-space:pre;display:inline;stroke-width:0.264583"
+           x="355.23727"
+           y="878.63062"><tspan
+             id="tspan50684"
+             x="355.23727"
+             y="878.63062">Hackfleisch</tspan></text>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 458.28303,264.50001 h 30"
+       id="path1526" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 458.28303,344.50001 h 30"
+       id="path4474" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 458.28303,424.50002 30,-1e-5"
+       id="path4476" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 458.28304,504.50002 29.99999,-1e-5"
+       id="path4478" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2321)"
+       d="m 548.28303,289.50001 v 20"
+       id="path4480" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2321)"
+       d="m 548.28302,369.50001 v 20"
+       id="path4484" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2321)"
+       d="m 548.28302,449.50001 v 20"
+       id="path4486" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2321)"
+       d="m 568.28303,529.50001 v 50"
+       id="path4488" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 648.28303,614.50001 h 30"
+       id="path38266" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39438)"
+       d="m 688.28302,344.50001 h -59.99998 v 235"
+       id="path39243" />
+    <g
+       id="g39772">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="m 458.28303,614.50001 h 80"
+         id="path4853" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 458.28303,694.49999 h 40 v -80"
+         id="path39766" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2321)"
+       d="m 738.28303,639.50001 v 20"
+       id="path39780" />
+    <g
+       id="g40135">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker39995)"
+         d="M 828.28302,344.50001 H 798.28303"
+         id="path39991" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 828.28302,264.50001 h -19.99998 v 160 h 19.99998"
+         id="path40129" />
+    </g>
+    <g
+       id="g40285">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 828.28302,574.5 h -19.99998 v 79.99999 h 19.99998"
+         id="path40185" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+         d="M 808.28304,614.49999 H 798.28303"
+         id="path40187" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 688.28301,694.49999 H 658.28302"
+       id="path40291" />
+  </g>
+</svg>
