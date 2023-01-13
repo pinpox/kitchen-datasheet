@@ -21,6 +21,7 @@
 :root {
     /* Browser default font-size is 16px, this way 1 rem = 10px */
     font-size: 62.5%;
+	font-weight: 100;
 }
 
 html {
@@ -141,7 +142,7 @@ table thead {
     background: var(--bg);
 }
 table thead td {
-    font-weight: 700;
+    font-weight: 120;
     border: none;
 }
 table thead th {
