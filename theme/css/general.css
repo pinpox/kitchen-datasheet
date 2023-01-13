@@ -6,16 +6,16 @@
 	font-family: 'Berkeley Mono';
 	font-style: normal;
 	font-weight: 100 150;
-	src: url("/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Regular.woff2") format("woff2"),
-	url("/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Regular.woff") format("woff");
+	src: url("https://pablo.tools/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Regular.woff2") format("woff2"),
+    url("https://pablo.tools/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Regular.woff") format("woff");
 }
 
 @font-face {
 	font-family: 'Berkeley Mono';
 	font-style: italic;
 	font-weight: 100 150;
-	src: url("/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Italic.woff2") format("woff2"),
-	url("/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Italic.woff") format("woff");
+	src: url("https://pablo.tools/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Italic.woff2") format("woff2"),
+    url("https://pablo.tools/fonts/berkeley-mono-variable/WEB/BerkeleyMonoVariable-Italic.woff") format("woff");
 }
 
 :root {
