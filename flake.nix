@@ -4,13 +4,10 @@
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-unstable";
 
-    # TODO remove when PR reaches nixos-unstable
-    # https://github.com/NixOS/nixpkgs/pull/210014
-    nixpkgs-pinpox.url = "github:pinpox/nixpkgs/mdbook-cmdrun";
   };
 
 
-  outputs = { self, nixpkgs, nixpkgs-pinpox }:
+  outputs = { self, nixpkgs }:
     let
 
       # to work with older version of flakes
@@ -28,8 +25,6 @@
       # Nixpkgs instantiated for supported system types.
       nixpkgsFor = forAllSystems (system: import nixpkgs { inherit system; });
 
-      nixpkgsPinpoxFor = forAllSystems (system: import nixpkgs-pinpox { inherit system; });
-
     in
     {
 
@@ -37,11 +32,10 @@
         (system:
           let
             pkgs = nixpkgsFor.${system};
-            pkgs-pinpox = nixpkgsPinpoxFor.${system};
             servescript = pkgs.writeShellScriptBin "serve" ''
               export CMD_DRAW_HEADTABLE="${self.packages.${system}.generate-headtable}/bin/generate-headtable"
               export CMD_DRAW_NUTRIENTS="${self.packages.${system}.generate-nutrients}/bin/generate-nutrients"
-              export PATH=$PATH:${pkgs-pinpox.mdbook-cmdrun}/bin
+              export PATH=$PATH:${pkgs.mdbook-cmdrun}/bin
               echo "Using $CMD_DRAW_HEADTABLE and $CMD_DRAW_NUTRIENTS as generators"
               ${pkgs.mdbook}/bin/mdbook serve --open
             '';
@@ -58,7 +52,6 @@
         (system:
           let
             pkgs = nixpkgsFor.${system};
-            pkgs-pinpox = nixpkgsPinpoxFor.${system};
           in
           {
             bash-example = pkgs.writeShellScriptBin "example-script" ''
@@ -80,7 +73,7 @@
                 runHook postInstall
               '';
 
-              buildInputs = [ pkgs.mdbook pkgs-pinpox.mdbook-cmdrun ];
+              buildInputs = [ pkgs.mdbook pkgs.mdbook-cmdrun ];
 
               meta = with pkgs.lib; {
                 homepage = "TODO";
