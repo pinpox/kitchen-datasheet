@@ -88,14 +88,14 @@
               pname = "generate-headtable";
               inherit version;
               src = ./helper-tools/generate-headtable;
-              vendorSha256 = "sha256-g+yaVIx4jxpAQ/+WrGKxhVeliYx7nLQe/zsGpxV4Fn4=";
+              vendorHash = "sha256-g+yaVIx4jxpAQ/+WrGKxhVeliYx7nLQe/zsGpxV4Fn4=";
             };
 
             generate-nutrients = pkgs.buildGoModule {
               pname = "generate-nutrients";
               inherit version;
               src = ./helper-tools/generate-nutrients;
-              vendorSha256 = "sha256-g+yaVIx4jxpAQ/+WrGKxhVeliYx7nLQe/zsGpxV4Fn4=";
+              vendorHash = "sha256-g+yaVIx4jxpAQ/+WrGKxhVeliYx7nLQe/zsGpxV4Fn4=";
             };
           });
 
